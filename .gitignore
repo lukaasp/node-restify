@@ -10,3 +10,4 @@ examples/todoapp/node_modules
 build
 docs/*.json
 nbproject
+.idea
